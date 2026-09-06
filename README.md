@@ -1,1 +1,0 @@
-# Dental-Panoramic-Radiograph-Analysis-Using-YOLO26-From-Tooth-Detection-to-Disease-Diagnosis
